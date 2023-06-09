@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mock Application</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter">Enter</string>
+</resources>
